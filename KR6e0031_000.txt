@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 菩薩十住行道品
+#+DATE: 2015-09-28 22:55:46.715165
+#+PROPERTY: JUAN 0
