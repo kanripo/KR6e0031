@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:47.914506
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:40
 #+TITLE: 菩薩十住行道品
 #+PROPERTY: CBETA_ID T10n0283
 #+PROPERTY: ID KR6e0031
